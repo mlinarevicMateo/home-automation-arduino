@@ -5,7 +5,7 @@
 const int LOW_PIN = 3;
 const int HIGH_PIN = 5;
 
-const char token[] = "059b9576-89ea-468e-81fb-564d1331055c";
+const char token[] = "Arduino Token";
 
 // Enter a MAC address and IP address for your controller below.
 byte mac[] = {  0x90, 0xA2, 0xDA, 0x00, 0x2D, 0xA1 };
